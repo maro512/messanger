@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Komunikator</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_register">Register</string>
+    <string name="first_name">First name</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+    <string name="city">City</string>
+    <string name="gender">Gender</string>
+    <string name="title_activity_remind_password">Remind Password</string>
+    <string name="reset">Reset</string>
+    <string name="error_invalid_login">Login is invalid</string>
+    <string name="action_register">Register</string>
+    <string name="error_password_not_match">Password must be the same as above</string>
+    <string name="error_invalid_name">Name is invalid</string>
+    <string name="premium">This content requires a premium account</string>
+    <string name="action_remind_password">Remind password</string>
+    <string name="prompt_old_password">Old Password</string>
+    <string name="prompt_password_repeat">Repeat password</string>
+    <string name="prompt_new_password">New Password</string>
+    <string name="action_change_password">Change password</string>
+    <string name="title_activity_change_password">Change Password</string>
+    <string name="prompt_contact_name">Contact name</string>
+    <string name="action_find_contact">Find contact</string>
+</resources>
